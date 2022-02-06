@@ -1,0 +1,4 @@
+This is my attempt at creating a brainfuck interpreter.
+To run a Brainfuck programs make sure it ends with *.bf extension type. 
+Put the files in the local folder and run the main program.
+Test can be run using the go test command.
